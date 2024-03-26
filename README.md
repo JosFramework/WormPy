@@ -1,12 +1,7 @@
-<h5>#######################################################
-#                                                     #
-#               Derechos de Autor👾🐍                #
-#                                                     #
 #######################################################
-#                                                     #
-#  © 2024 JossFramework. Todos los derechos reservados #
-#                                                     #
-#######################################################</h5>
+#                 Derechos de Autor👾🐍              #
+#  ©2024 JossFramework. Todos los derechos reservados #
+
 
 <h1>✅Description </h1>
 Este es un prototipo de malware creado con el fin de representar o simular un worm real con fines educativos sin ninguna intención maliciosa 
