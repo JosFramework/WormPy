@@ -9,9 +9,9 @@ Este es un prototipo de malware creado con el fin de representar o simular un wo
 Esta construido con python 🐍 se ejecuta en consola con en cualquier entorno 
 
 <h3>Comandos</h3>
-      <p>Clonar script</p>
+    <p>Clonar script</p>
       
-         python3 worm.py               
+      git clone https://github.com/JosFramework/wormPy.git             
 
 
    <p>Entrar al la carpeta</p>
