@@ -27,4 +27,4 @@ Esta construido con python 🐍 se ejecuta en consola con en cualquier entorno
 
 
 <h4>⚠️Alerta</h4>
-No usar con fines maliciosos, todo fines hecho no ético se realiza por su cuenta.
+No usar con fines maliciosos, toda acción no ética se realiza por su cuenta.
