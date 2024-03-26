@@ -1,6 +1,6 @@
-#######################################################
-#                 Derechos de Autor👾🐍              #
-#  ©2024 JossFramework. Todos los derechos reservados #
+
+                Derechos de Autor👾🐍              
+  ©2024 JossFramework. Todos los derechos reservados 
 
 
 <h1>✅Description </h1>
