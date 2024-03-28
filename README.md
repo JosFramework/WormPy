@@ -6,7 +6,7 @@
 Este es un prototipo de malware creado con el fin de representar o simular un worm real con fines educativos sin ninguna intención maliciosa 
 
 <h3>✅Especificaciones</h3>
-Esta construido con python 🐍 se ejecuta en consola con en cualquier entorno 
+Esta construido con python 🐍 se ejecuta en consola con cualquier entorno 
 
 <h3>Comandos</h3>
     <p>Clonar script</p>
